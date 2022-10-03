@@ -12,7 +12,7 @@
 					score_b: 0,
 				},
 				{
-					team_a: 'MAGMAKA FC',
+					team_a: 'MAGMA FC',
 					team_b: 'CAMO FC',
 					score_a: 1,
 					score_b: 3,
@@ -20,8 +20,8 @@
 				{
 					team_a: 'MXC FC',
 					team_b: 'REMAKO FC',
-					score_a: 0,
-					score_b: 5,
+					score_a: 1,
+					score_b: 6,
 				},
 			],
 		},
@@ -42,7 +42,7 @@
 				},
 				{
 					team_a: 'WARNING FC',
-					team_b: 'MAGMAKA FC',
+					team_b: 'MAGMA FC',
 					score_a: 0,
 					score_b: 0,
 				},
@@ -59,7 +59,7 @@
 				},
 				{
 					team_a: 'REMAKO FC',
-					team_b: 'MAGMAKA FC',
+					team_b: 'MAGMA FC',
 					score_a: 0,
 					score_b: 0,
 				},
@@ -75,7 +75,7 @@
 			matchday: 4,
 			matches: [
 				{
-					team_a: 'MAGMAKA FC',
+					team_a: 'MAGMA FC',
 					team_b: 'MXC FC',
 					score_a: 0,
 					score_b: 0,

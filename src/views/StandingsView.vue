@@ -8,8 +8,8 @@
 			won: 1,
 			drawn: 0,
 			lose: 0,
-			goals_for: 5,
-			goals_againts: 0,
+			goals_for: 6,
+			goals_againts: 1,
 		},
 		{
 			club: 'CAMO FC',
@@ -53,8 +53,8 @@
 			won: 0,
 			drawn: 0,
 			lose: 1,
-			goals_for: 0,
-			goals_againts: 5,
+			goals_for: 1,
+			goals_againts: 6,
 		},
 	]);
 
