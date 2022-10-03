@@ -8,7 +8,7 @@ defineProps<{
   <div class="greetings">
     <h1 class="primary-color">{{ msg }}</h1>
     <h3>
-      Proudly present by MAGMAKA FC
+      Proudly present by MAGMAKA INDONESIA FC
     </h3>
   </div>
 </template>
