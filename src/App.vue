@@ -19,6 +19,10 @@ import TitleComponent from './components/TitleComponent.vue'
   </header>
 
   <RouterView />
+
+  <footer style="margin: 15px 0">
+    <p>Made with spirit by <a href="https://nurhiman20.github.io/" target="_blank">nurhiman_a</a></p>
+  </footer>
 </template>
 
 <style scoped>
