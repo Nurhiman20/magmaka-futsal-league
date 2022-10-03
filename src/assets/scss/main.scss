@@ -20,6 +20,32 @@ h1 {
     font-weight: 700;
 }
 
+.fw-900 {
+    font-weight: 900;
+}
+
 .primary-color {
     color: #C82E2C;
+}
+
+.grid-container {
+    display: grid;
+    grid-template: auto / auto auto;
+}
+
+.grid-container>div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    border: 1px solid #3C4043;
+}
+
+@media screen and (max-width: 768px) {
+    .grid-container {
+        display: grid;
+        grid-template: auto / auto;
+        grid-gap: 10px;
+        border: 1px solid #3C4043;
+        padding: 10px;
+    }
 }
