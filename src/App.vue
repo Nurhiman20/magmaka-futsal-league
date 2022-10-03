@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import TitleComponent from './components/TitleComponent.vue'
 </script>
 
 <template>
@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/img/logo.png" width="180" height="180" />
 
     <div class="wrapper">
-      <HelloWorld msg="Adrilsyah Adnan 48 Cup 2022" />
+      <TitleComponent msg="Adrilsyah Adnan 48 Cup 2022" />
 
       <nav>
         <RouterLink to="/">Matches</RouterLink>
