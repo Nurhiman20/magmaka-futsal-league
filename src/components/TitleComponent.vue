@@ -8,12 +8,12 @@ defineProps<{
   <div class="greetings">
     <h1 class="primary-color">{{ msg }}</h1>
     <h3>
-      Proudly present by MAGMAKA INDONESIA FC
+      Proudly present by MAGMAKA FC
     </h3>
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 h1 {
   font-weight: 500;
   font-size: 2.6rem;
