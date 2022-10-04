@@ -99,6 +99,20 @@
 				</tbody>
 			</table>
 		</div>
+    <div class="notes">
+    <p>Notes:</p>
+    <ul>
+      <li>Klasemen menggunakan sistem Head to Head</li>
+      <li>MP: Match Played (Pertandingan dimainkan)</li>
+      <li>W: Won (Menang)</li>
+      <li>D: Drawn (Seri)</li>
+      <li>L: Lose (Kalah)</li>
+      <li>Pts: Points (Poin)</li>
+      <li>GF: Goals For (Mencetak gol)</li>
+      <li>GA: Goals Againts (Kebobolan)</li>
+      <li>GD: Goals Difference (Selisih gol)</li>
+    </ul>
+    </div>
 	</div>
 </template>
 
@@ -119,6 +133,9 @@
 			border-bottom: 1px solid #3c4043;
 		}
 	}
+  .notes {
+    margin-top: 15px;
+  }
 
 	.table-style {
 		overflow-x: auto;
