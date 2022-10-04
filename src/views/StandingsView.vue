@@ -67,7 +67,7 @@
 <template>
 	<div>
 		<h1 style="margin-bottom: 15px">Standings</h1>
-		<div class="table-style">
+		<div>
 			<table>
 				<thead>
 					<tr>
