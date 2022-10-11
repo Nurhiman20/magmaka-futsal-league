@@ -160,6 +160,14 @@
 		padding: 10px;
 		border: 1px solid #3c4043;
 		background-color: #303134;
+    p {
+      color: white;
+    }
+@media (prefers-color-scheme: dark) {
+    p {
+      color: rgba(235, 235, 235, 0.64);
+    }
+}
 	}
 
 	.matchday {
