@@ -117,6 +117,29 @@
 				},
 			],
 		},
+		{
+			matchday: 6,
+			matches: [
+				{
+					team_a: 'MXC FC',
+					team_b: 'CAMO FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'MAGMA FC',
+					team_b: 'SEVENTYFOUR FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'REMAKO FC',
+					team_b: 'WARNING FC',
+					score_a: 0,
+					score_b: 0,
+				},
+			],
+		},
 	]);
 </script>
 
