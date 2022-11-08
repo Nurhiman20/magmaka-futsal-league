@@ -140,6 +140,98 @@
 				},
 			],
 		},
+		{
+			matchday: 7,
+			matches: [
+				{
+					team_a: 'SEVENTYFOUR FC',
+					team_b: 'REMAKO FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'WARNING FC',
+					team_b: 'CAMO FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'MXC FC',
+					team_b: 'MAGMA FC',
+					score_a: 0,
+					score_b: 0,
+				},
+			],
+		},
+		{
+			matchday: 8,
+			matches: [
+				{
+					team_a: 'WARNING FC',
+					team_b: 'MXC FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'MAGMA FC',
+					team_b: 'REMAKO FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'CAMO FC',
+					team_b: 'SEVENTYFOUR FC',
+					score_a: 0,
+					score_b: 0,
+				},
+			],
+		},
+		{
+			matchday: 9,
+			matches: [
+				{
+					team_a: 'MAGMA FC',
+					team_b: 'WARNING FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'MXC FC',
+					team_b: 'SEVENTYFOUR FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'REMAKO FC',
+					team_b: 'CAMO FC',
+					score_a: 0,
+					score_b: 0,
+				},
+			],
+		},
+		{
+			matchday: 10,
+			matches: [
+				{
+					team_a: 'REMAKO FC',
+					team_b: 'MXC FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'CAMO FC',
+					team_b: 'MAGMA FC',
+					score_a: 0,
+					score_b: 0,
+				},
+				{
+					team_a: 'SEVENTYFOUR FC',
+					team_b: 'WARNING FC',
+					score_a: 0,
+					score_b: 0,
+				},
+			],
+		},
 	]);
 </script>
 
