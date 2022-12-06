@@ -1,0 +1,34 @@
+Notes:
+- Warning hanya butuh 1 poin (seri) untuk memastikan gelar juara
+- Jika Seventyfour menang dan Remako seri atau kalah ==> Seventyfour juara.
+- Jika Seventyfour menang dan Remako menang ==> 3 tim memiliki poin 20 (H2H menggunakan klasemen kecil Warning, Seventyfour, dan Remako)
+- Jika Seventyfour kalah dan MXC menang ==> Warning juara dan 3 tim memiliki poin 17 (H2H menggunakan klasemen kecil Seventyfour, Remako, MXC)
+
+Warning 0, Seventyfour 0
+Remako 3, Seventyfour 3
+Warning 2, Remako 2
+
+Remako 0, Warning 4
+Seventyfour 4, Remako 0
+Seventyfour ?, Warning ?
+
+Klasemen kecil
+              SG    Poin  
+Seventyfour   7-3   5
+Warning       6-2   5
+Remako        5-9   2
+
+
+MXC 1, Remako 6
+Seventyfour 0, MXC 6
+Remako 3, Seventyfour 3
+
+Seventyfour 4, Remako 0
+MXC 1, Seventyfour 2
+Remako ?, MXC ?
+
+Klasemen kecil
+              SG    Poin  
+Seventyfour   9-10  7
+Remako        9-4   4
+MXC           8-8   3
