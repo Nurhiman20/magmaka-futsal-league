@@ -100,6 +100,16 @@ const calculatePoints = (rank: any) => {
       </table>
     </div>
     <div class="notes">
+      <p>Catatan untuk matchday terakhir:</p>
+      <ul>
+        <li>Warning hanya butuh 1 poin (seri) untuk memastikan gelar juara.</li>
+        <li>Jika Seventyfour menang dan Remako seri atau kalah ==> Seventyfour juara 1, Warning juara 2, Remako atau MXC juara 3</li>
+        <li>Jika MXC menang dengan selisih gol lebih dari 5 dan Seventyfour menang atau seri ==> Seventyfour juara 1, Warning juara 2, MXC juara 3</li>
+        <li>Jika Seventyfour kalah atau seri dan Remako menang ==> Warning juara 1, Remako juara 2, Seventyfour juara 3</li>
+        <li>Jika Seventyfour kalah dan MXC menang ==> Warning juara 1, Seventyfour juara 2, MXC juara 3</li>
+      </ul>
+    </div>
+    <div class="notes">
       <p>Notes:</p>
       <ul>
         <li>Klasemen menggunakan sistem Head to Head</li>
