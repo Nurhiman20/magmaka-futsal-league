@@ -16,7 +16,7 @@ Klasemen kecil
               SG    Poin  
 Seventyfour   7-3   5
 Warning       6-2   5
-Remako        5-9   2
+Remako        5-13  2
 
 
 MXC 1, Remako 6
@@ -30,5 +30,5 @@ Remako ?, MXC ?
 Klasemen kecil
               SG    Poin  
 Seventyfour   9-10  7
-Remako        9-4   4
+Remako        9-8   4
 MXC           8-8   3
