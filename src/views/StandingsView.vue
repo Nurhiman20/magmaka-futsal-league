@@ -52,7 +52,7 @@ const rankings = ref([
     matches_played: 10,
     won: 1,
     drawn: 1,
-    lose: 7,
+    lose: 8,
     goals_for: 13,
     goals_againts: 31,
   },
