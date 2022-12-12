@@ -6,7 +6,7 @@ const topScorers = ref([
     rank: 1,
     player: "Crypton",
     club: "MXC FC",
-    goal: 11,
+    goal: 12,
   },
   {
     rank: 2,

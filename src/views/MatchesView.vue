@@ -216,7 +216,7 @@ const matchdays = ref([
         team_a: "REMAKO FC",
         team_b: "MXC FC",
         score_a: 0,
-        score_b: 0,
+        score_b: 1,
       },
       {
         team_a: "CAMO FC",

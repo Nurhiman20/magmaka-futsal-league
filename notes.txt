@@ -25,10 +25,10 @@ Remako 3, Seventyfour 3
 
 Seventyfour 4, Remako 0
 MXC 1, Seventyfour 2
-Remako ?, MXC ?
+Remako 0, MXC 1
 
 Klasemen kecil
               SG    Poin  
 Seventyfour   9-10  7
+MXC           9-8   6
 Remako        9-8   4
-MXC           8-8   3
