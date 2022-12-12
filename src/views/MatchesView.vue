@@ -221,14 +221,14 @@ const matchdays = ref([
       {
         team_a: "CAMO FC",
         team_b: "MAGMA FC",
-        score_a: 0,
+        score_a: 3,
         score_b: 0,
       },
       {
         team_a: "SEVENTYFOUR FC",
         team_b: "WARNING FC",
         score_a: 0,
-        score_b: 0,
+        score_b: 2,
       },
     ],
   },

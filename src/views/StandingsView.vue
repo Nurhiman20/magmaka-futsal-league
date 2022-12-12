@@ -4,21 +4,21 @@ import { ref } from "vue";
 const rankings = ref([
   {
     club: "WARNING FC",
-    matches_played: 9,
-    won: 6,
+    matches_played: 10,
+    won: 7,
     drawn: 2,
     lose: 1,
-    goals_for: 25,
+    goals_for: 27,
     goals_againts: 12,
   },
   {
     club: "SEVENTYFOUR FC",
-    matches_played: 9,
+    matches_played: 10,
     won: 5,
     drawn: 2,
-    lose: 2,
+    lose: 3,
     goals_for: 26,
-    goals_againts: 16,
+    goals_againts: 18,
   },
   {
     club: "MXC FC",
@@ -39,22 +39,22 @@ const rankings = ref([
     goals_againts: 15,
   },
   {
+    club: "CAMO FC",
+    matches_played: 10,
+    won: 2,
+    drawn: 1,
+    lose: 7,
+    goals_for: 13,
+    goals_againts: 30,
+  },
+  {
     club: "MAGMA FC",
-    matches_played: 9,
+    matches_played: 10,
     won: 1,
     drawn: 1,
     lose: 7,
     goals_for: 13,
-    goals_againts: 28,
-  },
-  {
-    club: "CAMO FC",
-    matches_played: 9,
-    won: 1,
-    drawn: 1,
-    lose: 7,
-    goals_for: 10,
-    goals_againts: 30,
+    goals_againts: 31,
   },
 ]);
 
@@ -103,10 +103,22 @@ const calculatePoints = (rank: any) => {
       <p>Catatan untuk matchday terakhir:</p>
       <ul>
         <li>Warning hanya butuh 1 poin (seri) untuk memastikan gelar juara.</li>
-        <li>Jika Seventyfour menang dan Remako seri atau kalah ==> Seventyfour juara 1, Warning juara 2, Remako atau MXC juara 3</li>
-        <li>Jika MXC menang dengan selisih gol lebih dari 5 dan Seventyfour menang atau seri ==> Seventyfour juara 1, Warning juara 2, MXC juara 3</li>
-        <li>Jika Seventyfour kalah atau seri dan Remako menang ==> Warning juara 1, Remako juara 2, Seventyfour juara 3</li>
-        <li>Jika Seventyfour kalah dan MXC menang ==> Warning juara 1, Seventyfour juara 2, MXC juara 3</li>
+        <li>
+          Jika Seventyfour menang dan Remako seri atau kalah ==> Seventyfour juara 1,
+          Warning juara 2, Remako atau MXC juara 3
+        </li>
+        <li>
+          Jika MXC menang dengan selisih gol lebih dari 5 dan Seventyfour menang atau seri
+          ==> Seventyfour juara 1, Warning juara 2, MXC juara 3
+        </li>
+        <li>
+          Jika Seventyfour kalah atau seri dan Remako menang ==> Warning juara 1, Remako
+          juara 2, Seventyfour juara 3
+        </li>
+        <li>
+          Jika Seventyfour kalah dan MXC menang ==> Warning juara 1, Seventyfour juara 2,
+          MXC juara 3
+        </li>
         <li>Jika Camo seri melawan Magma, Camo naik ke peringkat 5</li>
       </ul>
     </div>
